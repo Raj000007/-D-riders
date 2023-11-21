@@ -62,7 +62,7 @@
         <form class="login-form">
             <input class="form-input" type="text" name="username" placeholder="Username" required>
             <input class="form-input" type="password" name="password" placeholder="Password" required>
-            <button class="form-button" type="submit">Login</button>
+            <button class="form-button" type="submit">Ride</button>
         </form>
     </div>
 </body>
